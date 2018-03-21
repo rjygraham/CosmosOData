@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CosmosApiPoc.DataGenerator": {
+      "commandName": "Project"
+    }
+  }
+}
