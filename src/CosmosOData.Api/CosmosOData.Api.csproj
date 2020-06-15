@@ -13,7 +13,7 @@
 
   <ItemGroup>
 	<PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.2.1" />
-	<PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
+	<PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
 	<PackageReference Include="Microsoft.AspNetCore.OData" Version="7.0.0-beta2" />
 	<PackageReference Include="Microsoft.Azure.DocumentDB.Core" Version="1.9.1" />
   </ItemGroup>
